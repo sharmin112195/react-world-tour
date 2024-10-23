@@ -8,3 +8,7 @@
     background-color: darkcyan;
     color: black;
 }
+
+.flag-container img{
+width: 100px;
+}
